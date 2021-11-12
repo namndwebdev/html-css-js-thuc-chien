@@ -7,7 +7,7 @@
 | 01  | [Live Product Filter](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Live%20Product%20Filter)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/live-product-filter/)
 | 02  | [Create Range Slider](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Create%20Range%20Slider)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/create-range-slider/)
 | 03  | [Search Box](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Search%20Box)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/search-box/)
-| 04  | [Slideshow](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Slideshow)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/live-product-filter/)
+| 04  | [Slideshow](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Slideshow)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/slideshow/)
 | 05  | [Search Tags](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Search%20Tags)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/search-tags/)
 | 06  | [Detect Pressed Key](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Detect%20Pressed%20Key)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/detect-pressed-key/)
 
