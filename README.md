@@ -5,6 +5,11 @@
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Live Product Filter](https://www.nodemy.vn/projects/html-css-js/live-product-filter/)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/live-product-filter/)
+| 02  | [Create Range Slider](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Create%20Range%20Slider)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/live-product-filter/)
+| 03  | [Search Box](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Search%20Box)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/live-product-filter/)
+| 04  | [Slider](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Slider)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/live-product-filter/)
+| 05  | [Search Tags](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Search%20Tags)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/live-product-filter/)
+| 06  | [Detect Pressed Key](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Detect%20Pressed%20Key)               |                  [Live Demo](https://www.nodemy.vn/projects/html-css-js/live-product-filter/)
 
 
 
