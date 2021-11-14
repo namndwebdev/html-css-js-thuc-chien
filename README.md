@@ -1,16 +1,21 @@
-# Hơn 30+ Project thực chiến - HTML/CSS and JavaScript
+# Hơn 30+ Projects thực chiến - HTML CSS JavaScript
 
 - [Chi tiết khoá thực chiến Website](https://www.nodemy.vn/projects-html-css-js)
 
-|  #  | Project                                                                                                        | Live Demo                                                                    |
-| :-: | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 01  | [Live Product Filter](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Live%20Product%20Filter) | [Live Demo](https://www.nodemy.vn/projects/html-css-js/live-product-filter/) |
-| 02  | [Create Range Slider](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Create%20Range%20Slider) | [Live Demo](https://www.nodemy.vn/projects/html-css-js/create-range-slider/) |
-| 03  | [Search Box](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Search%20Box)                     | [Live Demo](https://www.nodemy.vn/projects/html-css-js/search-box/)          |
-| 04  | [Slideshow](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Slideshow)                         | [Live Demo](https://www.nodemy.vn/projects/html-css-js/slideshow/)           |
-| 05  | [Search Tags](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Search%20Tags)                   | [Live Demo](https://www.nodemy.vn/projects/html-css-js/search-tags/)         |
-| 06  | [Detect Pressed Key](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Detect%20Pressed%20Key)   | [Live Demo](https://www.nodemy.vn/projects/html-css-js/detect-pressed-key/)  |
-| 07  | [Detect Pressed Key](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Create%20Modal)           | [Live Demo](https://www.nodemy.vn/projects/html-css-js/detect-pressed-key/)  |
+|  #  | Project                                                                                                                | Live Demo                                                                        |
+| :-: | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 01  | [Live Product Filter](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Live%20Product%20Filter)         | [Live Demo](https://www.nodemy.vn/projects/html-css-js/live-product-filter/)     |
+| 02  | [Create Range Slider](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Create%20Range%20Slider)         | [Live Demo](https://www.nodemy.vn/projects/html-css-js/create-range-slider/)     |
+| 03  | [Search Box](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Search%20Box)                             | [Live Demo](https://www.nodemy.vn/projects/html-css-js/search-box/)              |
+| 04  | [Slideshow](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Slideshow)                                 | [Live Demo](https://www.nodemy.vn/projects/html-css-js/slideshow/)               |
+| 05  | [Search Tags](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Search%20Tags)                           | [Live Demo](https://www.nodemy.vn/projects/html-css-js/search-tags/)             |
+| 06  | [Detect Pressed Key](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Detect%20Pressed%20Key)           | [Live Demo](https://www.nodemy.vn/projects/html-css-js/detect-pressed-key/)      |
+| 07  | [Create Modal](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Create%20Modal)                         | [Live Demo](https://www.nodemy.vn/projects/html-css-js/create-modal/)            |
+| 08  | [Register Form Validator](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Register%20Form%20Validator) | [Live Demo](https://www.nodemy.vn/projects/html-css-js/register-form-validator/) |
+| 09  | [Weather App](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Weather%20App)                           | [Live Demo](https://www.nodemy.vn/projects/html-css-js/weather-app/)             |
+| 10  | [Todo List](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Todo%20List)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/todo-list/)               |
+
+
 
 **TÍNH NĂNG:**
 
