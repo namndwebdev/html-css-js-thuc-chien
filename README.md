@@ -14,6 +14,7 @@
 | 08  | [Register Form Validator](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Register%20Form%20Validator) | [Live Demo](https://www.nodemy.vn/projects/html-css-js/register-form-validator/) |
 | 09  | [Weather App](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Weather%20App)                           | [Live Demo](https://www.nodemy.vn/projects/html-css-js/weather-app/)             |
 | 10  | [Todo List](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Todo%20List)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/todo-list/)               |
+| 11  | [Todo List](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Todo%20List)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/todo-list/)               |
 
 
 
