@@ -38,7 +38,7 @@ button.error {
 
 #toasts {
 	position: fixed;
-	top: 200px;
+	top: 10px;
 	right: 10px;
 	display: flex;
 	flex-direction: column;
@@ -52,7 +52,6 @@ button.error {
 	animation: show_slide 1s ease forwards;
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
 	border-left: 6px solid;
 }
 
