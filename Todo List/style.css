@@ -1,0 +1,82 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+body {
+	background: linear-gradient(to right, #ffe000, #799f0c);
+	min-height: 100vh;
+}
+
+.container {
+	width: 400px;
+	background-color: #fff;
+	margin: 100px auto;
+	border-radius: 6px;
+}
+
+.form {
+	padding: 10px 20px 10px 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 1px solid #aaa;
+}
+
+.form input {
+	outline: none;
+	border: none;
+	padding: 0 20px;
+	font-size: 24px;
+	color: #444;
+	width: 100%;
+}
+
+.form button {
+	outline: none;
+	border: none;
+	background-color: yellowgreen;
+	padding: 5px 15px;
+	border-radius: 6px;
+	cursor: pointer;
+	color: white;
+	font-size: 20px;
+}
+
+.todos {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.todos li {
+	border-top: 1px solid #e5e5e5;
+	cursor: pointer;
+	font-size: 22px;
+	padding: 15px 22px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.todos li i {
+	color: #aaa;
+	opacity: 0;
+}
+
+.todos li:hover i {
+	opacity: 1;
+}
+
+.todos li span {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	padding-right: 10px;
+}
+
+.todos li.completed span {
+	color: #b6b6b6;
+	text-decoration: line-through;
+}

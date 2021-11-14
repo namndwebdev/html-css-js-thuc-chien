@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Weather App</title>
+
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+			integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+			crossorigin="anonymous"
+			referrerpolicy="no-referrer"
+		/>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div id="weather">
+			<input type="text" placeholder="Search..." class="input-search" />
+			<div class="content">
+				<h1 class="name">
+					<span class="city"></span>
+					<span>,</span>
+					<span class="country"></span>
+				</h1>
+				<p class="time"></p>
+				<div class="temperature">
+					<span class="value"></span>
+					<span><sup>o</sup>C</span>
+				</div>
+				<div class="short-desc"></div>
+				<div class="more-desc">
+					<div class="visibility">
+						<i class="far fa-eye"></i>
+						<span></span>
+					</div>
+					<div class="wind">
+						<i class="fas fa-wind"></i>
+						<span></span>
+					</div>
+					<div class="cloud">
+						<i class="fas fa-cloud-sun"></i>
+						<span></span>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script src="app.js"></script>
+	</body>
+</html>
