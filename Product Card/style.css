@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+:root {
+	--primary-color: #4daf54;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+	height: 100vh;
+	background-image: linear-gradient(to right, #4daf54, #3d8880);
+	overflow: hidden;
+}
+
+.card {
+	margin: 120px auto;
+	width: 320px;
+	height: 400px;
+	background-color: #272d40;
+	border-radius: 15px;
+	padding: 40px 20px;
+	color: white;
+}
+
+.card__img {
+	width: 90%;
+	transition: 0.5s;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+
+.card:hover .card__img {
+	transform: translateY(-90px) rotate(-20deg);
+}
+
+.card__title {
+	color: var(--primary-color);
+	transition: 0.5s;
+	text-align: center;
+}
+
+.card__price {
+	font-weight: 600;
+	font-size: 26px;
+	transition: 0.5s;
+	text-align: center;
+}
+
+.card:hover .card__title {
+	transform: translate(-40px, -72px);
+}
+
+.card:hover .card__price {
+	transform: translate(-112px, -72px);
+}
+
+.card__size,
+.card__color,
+.card__action {
+	opacity: 0;
+	visibility: hidden;
+	transition: 0.5s;
+}
+
+.card__size {
+	margin-top: 100px;
+}
+
+.card:hover .card__size {
+	margin-top: -30px;
+}
+
+.card:hover .card__size,
+.card:hover .card__color,
+.card:hover .card__action {
+	transition-delay: 0.2s;
+	opacity: 1;
+	visibility: visible;
+}
+
+.card__size,
+.card__color {
+	display: flex;
+	align-items: center;
+	margin-bottom: 15px;
+}
+
+.card__size h3,
+.card__color h3 {
+	font-weight: unset;
+	margin-right: 12px;
+}
+
+.card__size span {
+	padding: 2px 10px;
+	background-color: #dadada;
+	margin: 0 5px;
+	border-radius: 5px;
+	color: #272d40;
+	cursor: pointer;
+}
+
+.card__color span {
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	margin: 0 5px;
+    cursor: pointer;
+}
+
+.card__color span.green {
+	background-color: green;
+}
+.card__color span.red {
+	background-color: red;
+}
+.card__color span.black {
+	background-color: black;
+}
+
+.card__action button {
+	padding: 10px 20px;
+	outline: none;
+	border: none;
+	background-color: var(--primary-color);
+	border-radius: 5px;
+	cursor: pointer;
+	color: white;
+	margin-right: 7px;
+	font-weight: 600;
+	transition: 0.25s;
+}
+
+.card__action button:hover {
+	transform: scale(0.9);
+}
