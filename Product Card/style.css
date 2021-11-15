@@ -25,6 +25,7 @@ body {
 	border-radius: 15px;
 	padding: 40px 20px;
 	color: white;
+	position: relative;
 }
 
 .card__img {
@@ -143,4 +144,19 @@ img {
 
 .card__action button:hover {
 	transform: scale(0.9);
+}
+
+
+.like, .cart {
+	font-size: 25px;
+	position: absolute;
+	top: 12px;
+	left: 20px;
+	cursor: pointer;
+	z-index: 2;
+}
+
+.cart {
+	left: unset;
+	right: 20px;
 }
