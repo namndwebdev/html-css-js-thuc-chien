@@ -14,7 +14,10 @@
 | 08  | [Register Form Validator](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Register%20Form%20Validator) | [Live Demo](https://www.nodemy.vn/projects/html-css-js/register-form-validator/) |
 | 09  | [Weather App](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Weather%20App)                           | [Live Demo](https://www.nodemy.vn/projects/html-css-js/weather-app/)             |
 | 10  | [Todo List](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Todo%20List)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/todo-list/)               |
-| 11  | [Todo List](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Todo%20List)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/todo-list/)               |
+| 11  | [Toast Notification](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Toast%20Notification)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/toast-notification/)               |
+| 12  | [Profile Card](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Profile%20Card)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/profile-card/)               |
+| 13  | [Preview Image](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Preview%20Image)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/preview-image/)               |
+| 14  | [Image Gallery](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Image%20Gallery)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/image-gallery/)               |
 
 
 
