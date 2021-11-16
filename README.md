@@ -20,6 +20,7 @@
 | 14  | [Image Gallery](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Image%20Gallery)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/image-gallery/)               |
 | 15  | [Product Card](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Product%20Card)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/product-card/)               |
 | 16  | [Show On Scroll](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Show%20On%20Scroll)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/show-on-scroll/)               |
+| 17  | [Counter Up](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Counter%20Up)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/show-on-scroll/)               |
 
 
 
