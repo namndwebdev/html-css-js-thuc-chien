@@ -1,20 +1,22 @@
-const counters = document.querySelectorAll('.counter h2')
+const face = document.querySelector('.counter.face h2')
+const youtube = document.querySelector('.counter.youtube h2')
+const tiktok = document.querySelector('.counter.tiktok h2')
 
-counters.forEach((counter) => {
-	counter.innerText = '0'
-	const target = +counter.getAttribute('data-target')
-	const increment = target / 200
-
-	const updateCounter = () => {
-		const from = +counter.innerText
-
-		if (from < target) {
-			counter.innerText = `${Math.ceil(from + increment)}`
-			setTimeout(updateCounter, 1)
+function counterUp(el, to) {
+	let speed = 200
+	let from = 0
+	let step = to / speed
+	const counter = setInterval(function () {
+		from += step
+		if (from > to) {
+			clearInterval(counter)
+			el.innerText = to
 		} else {
-			counter.innerText = target
+			el.innerText = Math.ceil(from)
 		}
-	}
+	}, 1)
+}
 
-	updateCounter()
-})
+counterUp(face, 3300)
+counterUp(youtube, 1000)
+counterUp(tiktok, 9900)
