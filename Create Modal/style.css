@@ -54,14 +54,14 @@ body {
 	background-color: #fff;
 	border-radius: 5px;
 	overflow: hidden;
-	animation: showModal linear 0.25s;
+	animation: showModal linear 0.2s;
 	position: relative;
 	margin: 200px auto;
 }
 
 @keyframes showModal {
 	from {
-		top: -300px;
+		top: -200px;
 		opacity: 0;
 	}
 	to {

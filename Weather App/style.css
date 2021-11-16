@@ -15,20 +15,20 @@ body {
 
 body.hot {
 	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 1)),
-		url(https://i.ibb.co/wMnKj85/hot.jpg) no-repeat center/cover;
+		url(hot.png) no-repeat center/cover;
 }
 
 body.hot #weather {
-	background-image: url(https://i.ibb.co/wMnKj85/hot.jpg);
+	background-image: url(hot.png);
 }
 
 body.cold {
 	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 1)),
-		url(https://i.ibb.co/sQRT2dJ/cold.png) no-repeat center/cover;
+		url(cold.png) no-repeat center/cover;
 }
 
 body.cold #weather {
-	background-image: url(https://i.ibb.co/sQRT2dJ/cold.png);
+	background-image: url(cold.png);
 }
 
 #weather {

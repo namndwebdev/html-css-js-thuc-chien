@@ -7,7 +7,7 @@ createTag()
 
 function createTag() {
 	ul.querySelectorAll('li').forEach((li) => li.remove())
-	tags.reverse().forEach((tag) => {
+	tags.slice().reverse().forEach((tag) => {
 		let liTag = `
             <li>${tag}
             <i class="uit uit-multiply" onclick="removeTag(this, '${tag}')"></i>
@@ -27,8 +27,8 @@ function removeTag(element, tag) {
 
 function addTag(e) {
 	if (e.key == 'Enter') {
-		let tag = e.target.value
-		if (tag.length > 1 && !tags.includes(tag)) {
+		let tag = e.target.value.trim()
+		if (tag != '' && !tags.includes(tag)) {
 			tags.push(tag)
 			createTag()
 		}
