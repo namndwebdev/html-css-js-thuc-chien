@@ -16,4 +16,4 @@ range.addEventListener('mousemove', function (e) {
 
 	percent = Math.ceil(percent)
 	setRangeBar(percent)
-})
+}) 
