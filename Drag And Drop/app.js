@@ -1,43 +1,28 @@
-const fill = document.querySelector('.fill')
-const empties = document.querySelectorAll('.empty')
+const draggable = document.querySelector('.draggable')
+const boxes = document.querySelectorAll('.box')
 
-fill.addEventListener('dragstart', dragStart)
-fill.addEventListener('dragend', dragEnd)
+draggable.addEventListener('dragstart', dragStart)
+draggable.addEventListener('dragend', dragEnd)
 
-for(const empty of empties) {
-    empty.addEventListener('dragover', dragOver)
-    empty.addEventListener('dragenter', dragEnter)
-    empty.addEventListener('dragleave', dragLeave)
-    empty.addEventListener('drop', dragDrop)
-}
+boxes.forEach((box) => {
+	box.addEventListener('dragover', dragOver)
+	box.addEventListener('drop', dragDrop)
+})
 
 function dragStart() {
-    this.className += ' dragging' 
-    // setTimeout(() => this.className = 'invisible', 0)
-    // this.className = '0'
+	this.classList.add('dragging')
 }
 
 function dragEnd() {
-    // this.className = 'fill'
-    this.classList.remove('dragging')
+	this.classList.remove('dragging')
 }
 
 function dragOver(e) {
-    // e.preventDefault()
-    const drag = document.querySelector('.dragging')
-    this.appendChild(drag)
-}
-
-function dragEnter(e) {
-    // e.preventDefault()
-    // this.className += ' hovered'
-}
-
-function dragLeave() {
-    // this.className = 'empty'
+	// thêm preventDefault vì theo mặc định thả vào bên trong 1 phần tử sẽ bị vô hiệu hóa => xem con trỏ chuột khi over để rõ hơn
+	e.preventDefault()
+	this.appendChild(draggable)
 }
 
 function dragDrop() {
-    // this.className = 'empty'
-    this.append(fill)
+	this.appendChild(draggable)
 }

@@ -1,45 +1,35 @@
 * {
-    box-sizing: border-box;
-  }
-  
-  body {
-    background-color: steelblue;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    overflow: hidden;
-    margin: 0;
-  }
-  
-  .empty {
-    height: 150px;
-    width: 150px;
-    margin: 10px;
-    border: solid 3px black;
-    background: white;
-  }
-  
-  .fill {
-    background-image: url('https://images.unsplash.com/photo-1637089827720-22f789208c71?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=464&q=80');
-    height: 145px;
-    width: 145px;
-    cursor: pointer;
-  }
-  
-  .dragging {
-    border: solid 5px #ccc;
-  }
-  
-  .hovered {
-    background-color: #333;
-    border-color: white;
-    border-style: dashed;
-  }
-  
-  @media (max-width: 800px) {
-    body {
-      flex-direction: column;
-    }
-  }
-  
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: linear-gradient(145deg, #a4508b, #5f0a87);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.box {
+	height: 180px;
+	width: 180px;
+	margin: 10px;
+	border: solid 3px black;
+	background: white;
+	overflow: hidden;
+}
+
+.draggable {
+	background-image: url('bg.jpeg');
+	object-fit: cover;
+	object-position: center;
+	width: 100%;
+	height: 100%;
+}
+
+.dragging {
+	border: solid 5px #ccc;
+}
