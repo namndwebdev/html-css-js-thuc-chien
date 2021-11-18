@@ -17,7 +17,7 @@ body {
 }
 
 .open-modal {
-	position: absolute;
+	position: fixed;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
@@ -40,8 +40,8 @@ body {
 	position: absolute;
 	top: 0;
 	left: 0;
-	right: 0;
-	bottom: 0;
+	width: 100vw;
+	height: 100vh;
 	background-color: rgba(0, 0, 0, 0.6);
 }
 
@@ -80,7 +80,7 @@ body {
 	font-size: 17px;
 }
 
-.modal__body {
+.modal__body	{
 	padding: 15px;
 }
 

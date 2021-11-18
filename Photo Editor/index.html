@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Photo Editor</title>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+			integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+			crossorigin="anonymous"
+			referrerpolicy="no-referrer"
+		/>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div class="tools">
+				<div>
+					<label for="brightness">Brightness</label>
+					<input type="range" name="" id="brightness" />
+				</div>
+				<div>
+					<label for="blur">Blur</label>
+					<input type="range" name="" id="blur" />
+				</div>
+				<div>
+					<label for="greyscale">GreyScale</label>
+					<input type="range" name="" id="greyscale" />
+				</div>
+				<div>
+					<label for="hue-rotate">Hue Rotate</label>
+					<input type="range" name="" id="hue-rotate" />
+				</div>
+				<div>
+					<label for="saturation">Saturation</label>
+					<input type="range" name="" id="saturation" />
+				</div>
+				<div class="scale">
+					<label for="scale">Scale</label>
+					<input type="range" id="scale" />
+				</div>
+				<div>
+					<span class="rotate">
+						<i class="fas fa-sync-alt"></i>
+					</span>
+					<span> Reset </span>
+				</div>
+			</div>
+			<div class="show">
+				<div class="img-wrap">
+					<img src="Screenshot 2021-11-17 214224.png" alt="" />
+                    <input type="file" name="selectedImage" id="selectedImage" accept="image/jpeg, image/png">
+      			<p id="hint">choose Image from folder</p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
