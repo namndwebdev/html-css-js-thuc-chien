@@ -1,6 +1,6 @@
 # Hơn 30+ Projects thực chiến - HTML CSS JavaScript
 
-- [Chi tiết 30 projects thực chiến HTML CSS Javascript](https://www.nodemy.vn/projects-html-css-js)
+## [Chi tiết 30 projects thực chiến HTML CSS Javascript](https://www.nodemy.vn/projects-html-css-js)
 
 |  #  | Project                                                                                                                | Live Demo                                                                        |
 | :-: | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
