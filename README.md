@@ -23,7 +23,7 @@
 | 17  | [Counter Up](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Counter%20Up)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/counter-up/)               |
 | 18  | [Drag And Drop](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Drag%20And%20Drop)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/drag-and-drop/)               |
 | 19  | [Drawing App](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Drawing%20App)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/drawing-app/)               |
-| 20  | [Typing Animation Effect](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Drawing%20App)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/drawing-app/)               |
+| 20  | [Typing Animation Effect](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Typing%20Animation%20Effect)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/drawing-app/)               |
 
 
 
