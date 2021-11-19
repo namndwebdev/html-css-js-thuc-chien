@@ -1,3 +1,7 @@
+:root {
+	--pink-color: #e26e70;
+}
+
 * {
 	padding: 0;
 	margin: 0;
@@ -16,7 +20,7 @@ body {
 	overflow: hidden;
 }
 
-.open-modal {
+.open-modal-btn {
 	position: fixed;
 	top: 50%;
 	left: 50%;
@@ -32,7 +36,7 @@ body {
 	transition: 0.25s;
 }
 
-.open-modal:hover {
+.open-modal-btn:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 }
 
@@ -71,7 +75,7 @@ body {
 }
 
 .modal__header {
-	background-color: #e26e70;
+	background-color: var(--pink-color);
 	color: white;
 	display: flex;
 	align-items: center;
@@ -85,7 +89,7 @@ body {
 }
 
 .modal__body h2 {
-	color: #e26e70;
+	color: var(--pink-color);
 	margin-bottom: 10px;
 }
 
@@ -98,7 +102,7 @@ body {
 	outline: none;
 	border: none;
 	padding: 10px 20px;
-	background-color: #e26e70;
+	background-color: var(--pink-color);
 	color: white;
 	border-radius: 6px;
 	cursor: pointer;

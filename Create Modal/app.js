@@ -1,5 +1,5 @@
 const modal = document.querySelector('.modal')
-const openModal = document.querySelector('.open-modal')
+const openModalBtn = document.querySelector('.open-modal-btn')
 const iconCloseModal = document.querySelector('.modal__header i')
 const buttonCloseModal = document.querySelector('.modal__footer button')
 
@@ -7,7 +7,7 @@ function toggleModal() {
 	modal.classList.toggle('hide')
 }
 
-openModal.addEventListener('click', toggleModal)
+openModalBtn.addEventListener('click', toggleModal)
 iconCloseModal.addEventListener('click', toggleModal)
 buttonCloseModal.addEventListener('click', toggleModal)
 
