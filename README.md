@@ -24,7 +24,7 @@
 | 18  | [Drag And Drop](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Drag%20And%20Drop)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/drag-and-drop/)               |
 | 19  | [Drawing App](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Drawing%20App)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/drawing-app/)               |
 | 20  | [Typing Animation Effect](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Typing%20Animation%20Effect)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/typing-animation-effect/)               |
-| 21  | [Dark And Light Mode](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Typing%20Animation%20Effect)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/typing-animation-effect/)               |
+| 21  | [Dark And Light Mode](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Dark%20And%20Light%20Mode)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/dark-and-light-mode/)               |
 
 
 **TÍNH NĂNG:**
