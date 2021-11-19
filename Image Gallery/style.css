@@ -7,8 +7,6 @@
 body {
 	height: 100vh;
 	background-color: #dadada;
-	/* overflow: hidden; */
-	/* position: relative; */
 	display: flex;
 }
 
@@ -70,7 +68,6 @@ img {
 }
 
 .control {
-	/* display: inline-block; */
 	position: absolute;
 	color: rgba(255, 255, 255, 0.8);
 	font-size: 50px;
