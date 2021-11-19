@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
+:root {
+	--pink-color: #f2726a;
+}
+
 * {
 	margin: 0;
 	padding: 0;
@@ -33,7 +37,7 @@ body {
 	margin: 0 auto;
 	transform: translateY(25px);
 	border-radius: 50%;
-	border: 4px solid #f2726a;
+	border: 4px solid var(--pink-color);
 	cursor: pointer;
 }
 
@@ -58,10 +62,10 @@ h2 {
 }
 
 p {
-	color: #f2726a;
+	color: var(--pink-color);
 }
 
-.card__contact a {
+.card__social a {
 	text-decoration: none;
 	color: white;
 	margin: 25px 20px 40px;
@@ -70,8 +74,8 @@ p {
 	transition: 0.25s;
 }
 
-.card__contact a:hover {
-	color: #f2726a;
+.card__social a:hover {
+	color: var(--pink-color);
 }
 
 button {
@@ -79,7 +83,7 @@ button {
 	border: none;
 	color: white;
 	background-color: transparent;
-	border: 1px solid #f2726a;
+	border: 1px solid var(--pink-color);
 	padding: 10px 20px;
 	border-radius: inherit;
 	cursor: pointer;
@@ -87,5 +91,5 @@ button {
 }
 
 button:hover {
-	background-color: #f2726a;
+	background-color: var(--pink-color);
 }
