@@ -64,14 +64,14 @@ body {
 	height: 100px;
 }
 
-.detail p .header {
+.card .header {
 	background-color: #78c0c9;
 	color: white;
 	padding: 10px;
-	font-size: 19px;
+	font-size: 20px;
 }
 
-.detail p span:last-child {
+.card span:last-child {
 	text-transform: capitalize;
 	margin-top: 10px;
 	font-size: 20px;
