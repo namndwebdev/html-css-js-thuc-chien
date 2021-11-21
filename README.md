@@ -26,7 +26,7 @@
 | 20  | [Typing Animation Effect](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Typing%20Animation%20Effect)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/typing-animation-effect/)               |
 | 21  | [Dark And Light Mode](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Dark%20And%20Light%20Mode)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/dark-and-light-mode/)               |
 | 22  | [Filter Elements](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Filter%20Elements)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/filter-elements/)               |
-| 23  | [Zoom Image](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Filter%20Elements)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/filter-elements/)               |
+| 23  | [Zoom Image](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Zoom%20Image)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/zoom-image/)               |
 
 
 **TÍNH NĂNG:**
