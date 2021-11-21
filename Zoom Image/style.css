@@ -1,0 +1,25 @@
+.zoomer {
+	position: relative;
+	width: 400px;
+	cursor: zoom-in;
+}
+
+.zoomer img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+
+.result {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+/* 
+Cách css thứ 2:
+Nếu bạn không thích để result đè lên ảnh hiện tại => bạn có thể tùy ý css vị trí cũng như kích thước cho result và đặt ở đâu cũng được
+*/
