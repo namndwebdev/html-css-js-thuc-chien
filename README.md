@@ -28,6 +28,7 @@
 | 22  | [Filter Elements](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Filter%20Elements)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/filter-elements/)               |
 | 23  | [Zoom Image](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Zoom%20Image)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/zoom-image/)               |
 | 24  | [Hover Board](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Hover%20Board)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/hover-board/)               |
+| 24  | [Custom Video Player](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Hover%20Board)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/hover-board/)               |
 
 
 **TÍNH NĂNG:**
