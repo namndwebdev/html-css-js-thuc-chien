@@ -30,7 +30,7 @@ input.addEventListener('input', (e) => {
         ? number.add('valid') 
         : number.remove('valid')
 
-    value.search(/[!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?]+/) >= 0 
+    value.search(/\W/) >= 0 
         ? symbol.add('valid')
         : symbol.remove('valid')
 
