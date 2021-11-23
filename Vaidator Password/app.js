@@ -34,5 +34,7 @@ input.addEventListener('input', (e) => {
         ? symbol.add('valid')
         : symbol.remove('valid')
 
-	value.length >= 8 ? characters.add('valid') : characters.remove('valid')
+	value.length >= 8 
+		? characters.add('valid') 
+		: characters.remove('valid')
 })
