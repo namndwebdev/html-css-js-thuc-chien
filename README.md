@@ -31,6 +31,7 @@
 | 25  | [Custom Video Player](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Custom%20Video%20Player)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/custom-video-player/)               |
 | 26  | [Validator Password](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Vaidator%20Password)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/validator-password/)               |
 | 27  | [Tooltip](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Tooltip)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/tooltip/)               |
+| 28  | [Skeleton Loading Effect](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Skeleton%20Loading%20Effect)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/skeleton-loading-effect/)               |
 
 
 **TÍNH NĂNG:**
