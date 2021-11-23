@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validator Password</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <form>
+            <div class="form-input">
+                <input type="password">
+                <span class="form-eye"></span>
+            </div>
+            <button class="submit">Submit</button>
+        </form>
+        <div class="validator">
+            <p class="lowercase">Lower-case</p>
+            <p class="uppercase">Upper-case</p>
+            <p class="number">Number</p>
+            <p class="symbol">At least one special symbol</p>
+            <p class="characters">At least 8 characters</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

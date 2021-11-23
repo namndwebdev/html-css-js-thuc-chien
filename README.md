@@ -29,6 +29,7 @@
 | 23  | [Zoom Image](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Zoom%20Image)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/zoom-image/)               |
 | 24  | [Hover Board](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Hover%20Board)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/hover-board/)               |
 | 25  | [Custom Video Player](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Custom%20Video%20Player)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/custom-video-player/)               |
+| 26  | [Validator Password](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Custom%20Video%20Player)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/custom-video-player/)               |
 
 
 **TÍNH NĂNG:**
