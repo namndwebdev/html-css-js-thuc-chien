@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: linear-gradient(145deg, #413579, #632a4c);
+}
+
+.wrapper {
+	margin: 0 100px;
+	overflow: hidden;
+	white-space: nowrap;
+	user-select: none;
+	cursor: pointer;
+	border: 2px solid #dadada;
+	padding: 20px;
+}
+
+.box {
+	width: 200px;
+	height: 200px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 60px;
+	color: white;
+	background-color: #7043a5;
+	margin: 0 10px;
+}
