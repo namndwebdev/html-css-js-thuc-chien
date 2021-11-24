@@ -32,6 +32,8 @@
 | 26  | [Validator Password](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Vaidator%20Password)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/validator-password/)               |
 | 27  | [Tooltip](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Tooltip)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/tooltip/)               |
 | 28  | [Skeleton Loading Effect](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Skeleton%20Loading%20Effect)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/skeleton-loading-effect/)               |
+| 29  | [Play Piano](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Play%20Piano)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/play-piano/)               |
+| 30  | [Simple Carousel](https://github.com/namndwebdev/html-css-js-thuc-chien/tree/main/Simple%20Carousel)                               | [Live Demo](https://www.nodemy.vn/projects/html-css-js/simple-carousel/)               |
 
 
 **TÍNH NĂNG:**
