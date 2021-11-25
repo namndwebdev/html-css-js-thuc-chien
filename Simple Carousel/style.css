@@ -21,6 +21,11 @@ body {
 	cursor: pointer;
 	border: 2px solid #dadada;
 	padding: 20px;
+	overflow-x: auto;
+}
+
+.wrapper::-webkit-scrollbar {
+	width: 0;
 }
 
 .box {

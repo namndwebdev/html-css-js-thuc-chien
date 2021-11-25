@@ -20,7 +20,7 @@ wrapper.addEventListener('mousemove', (e) => {
 	if (!isMouseDown) return
 
 	const x = e.pageX - wrapper.offsetLeft
-	// 2 là tốc độ scroll
-	const walk = (x - startX) * 2
+	// 3 là tốc độ scroll
+	const walk = (x - startX) * 3
 	wrapper.scrollLeft = scrollLeft - walk
 })
