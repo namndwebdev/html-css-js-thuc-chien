@@ -6,20 +6,21 @@ let tags = ['nodejs', 'reactjs']
 createTag()
 
 function createTag() {
-	ul.querySelectorAll('li').forEach((li) => li.remove())
-	tags.slice().reverse().forEach((tag) => {
+	ul.innerHTML = ''
+	tags.forEach((tag, index) => {
 		let liTag = `
             <li>${tag}
-            <i class="uit uit-multiply" onclick="removeTag(this, '${tag}')"></i>
+            <i class="uit uit-multiply" onclick="removeTag(this, '${index}')"></i>
             </li>
             `
-		ul.insertAdjacentHTML('afterbegin', liTag)
+		ul.innerHTML += liTag
 	})
-    input.focus()
+
+	ul.appendChild(input)
+	input.focus()
 }
 
-function removeTag(element, tag) {
-	let index = tags.indexOf(tag)
+function removeTag(element, index) {
 	tags.splice(index, 1)
 	element.parentElement.remove()
 	input.focus()
@@ -41,6 +42,5 @@ input.addEventListener('keyup', addTag)
 const removeBtn = document.querySelector('.btn-removeAll')
 removeBtn.addEventListener('click', () => {
 	tags.length = 0
-	ul.querySelectorAll('li').forEach((li) => li.remove())
-    input.focus()
+	createTag()
 })

@@ -10,7 +10,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	min-height: 100vh;
+	height: 100vh;
 	background: #8cc84c;
 }
 
@@ -18,16 +18,16 @@ body {
 	width: 500px;
 	background: #fff;
 	border-radius: 10px;
-	padding: 18px 25px 20px;
-	box-shadow: 0 0 30px rgba(0, 0, 0, 0.06);
+	padding: 20px;
+	font-size: 16px;
 }
 
-.title h2 {
-	font-size: 21px;
+.title {
+	font-size: 22px;
 	font-weight: 600;
 }
 
-.content ul {
+.content {
 	display: flex;
 	flex-wrap: wrap;
 	padding: 10px;
@@ -36,40 +36,39 @@ body {
 	border: 1px solid #888;
 }
 
-.content ul li {
+.content li {
 	color: #333;
 	margin: 4px 3px;
 	list-style: none;
 	border-radius: 5px;
 	background: #8cc84c;
-	padding: 5px 8px 5px 10px;
+	padding: 10px;
 	color: white;
 }
 
-.content ul li i {
-	margin-left: 8px;
-	font-size: 16px;
+.content li i {
+	margin-left: 10px;
 	cursor: pointer;
 }
 
-.content ul input {
+.content input {
 	flex: 1;
 	padding: 5px;
 	border: none;
 	outline: none;
-	font-size: 16px;
+	font-size: 20px;
 }
 
 button {
 	border: none;
 	outline: none;
 	color: #fff;
-	font-size: 16px;
 	cursor: pointer;
-	padding: 9px 15px;
+	padding: 10px 20px;
 	border-radius: 5px;
 	background: #8cc84c;
 	transition: all 0.3s ease;
+	font-size: 16px;
 }
 
 button:hover {
